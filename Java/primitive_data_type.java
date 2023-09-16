@@ -1,18 +1,18 @@
-import java.util.*;
 public class primitive_data_type{
     public static void main(String[] args){
-        //byte -1[-128 to 127]
-        //short - 2
-        // int- 4
-        //long- 8
-        // float- 4
-        // double- 8
-        // char- 2
-        // boolean- 1 true/ false
+        int mynum =5;
+        float myfloat= 5.55f;
+        char myLetter= 'd';
+        boolean myBool= true;
 
-        byte age = 30;
-        int phone = 1234342444;
-        long phone2 = 1345433554543L;    
-        boolean isAdult = true;
+        long ph= 44444444444444444L;
+        System.out.println(ph);
+
+        String mytext = "Hello";
+        System.out.println(mynum);
+        System.out.println(myfloat);
+        System.out.println(myLetter);
+        System.out.println(mytext);
+        System.out.println(myBool);
     }
 }
