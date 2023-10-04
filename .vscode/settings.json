@@ -1,5 +1,5 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "sqltools.connections": [],
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5504
 }
